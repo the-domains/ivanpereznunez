@@ -1,7 +1,7 @@
 name: ivanpereznunez
 favicon: null
-layout_spectrum: 0.86501908977516
-typography_spectrum: 0.09123246022500098
+layout_spectrum: 1
+typography_spectrum: 0.44749
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.15634413226507604
-  lightness: 0.8633070969954133
-  saturation: 0.2790558740962297
-  rhythmicContrast: 0.5583085515536368
+  brandStrength: 0
+  lightness: 0.25
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
